@@ -59,3 +59,14 @@ step-8
 step-9
 加入靜態的 輸入框
 
+step-10
+CommentForm
+加入 getInitialState 初始化設定
+加入 handleAuthorChange、handleTextChange onChange 事件函數
+加入 handleSubmit onSubmit 事件函數
+CommentBox
+加入 handleCommentSubmit onCommentSubmit 事件函數
+
+完整執行 API 寫入，並每兩秒執行讀取顯示於畫面
+
+
