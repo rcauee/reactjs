@@ -12,3 +12,8 @@ class 為 commentBox
 
 *注意 html 元素取名開頭字母一定要為小寫，而自定義的 react class 開頭取名一定為大寫。
 
+step-1-1
+因為使用 babel 所以使用 JSX 語法
+可以不用自己寫標籤，完全用動態產生的方式處理
+
+
