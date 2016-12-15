@@ -40,6 +40,8 @@ step-6
 連結資料模型  
 將畫面上的資料改由外部資料的方式讀入顯示  
 
+***以下開始用到 API 可能需要 server 環境***  
+
 step-6-1  
 將資料來源改為 API  
 
@@ -66,6 +68,7 @@ CommentBox
 加入 handleCommentSubmit onCommentSubmit 事件函數  
 
 完整執行 API 寫入，並每兩秒執行讀取顯示於畫面  
+***這裡 API 使用 PHP 請放置於 可執行 PHP 的環境***  
 
 step-11  
 流程優化，將輸入值趕在寫入讀出前直接顯示於畫面  
