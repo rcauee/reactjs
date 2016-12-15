@@ -35,3 +35,7 @@ step-4
 加入 Markdown (Markdown - wiki)
 轉換輸出
 
+step-5
+使用 React API 將動態產生的 html 標籤處理成正常 html 輸出
+
+
