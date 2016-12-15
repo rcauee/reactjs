@@ -23,3 +23,10 @@ step-2
   - CommentForm
 的格式
 以加入標籤的方式
+
+step-3
+加入屬性設定
+- CommentBox
+  - CommentList, 提供 資料 給 Comment 做顯示
+    - Comment
+  - CommentForm
