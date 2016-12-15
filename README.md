@@ -46,3 +46,8 @@ step-6-1
 將資料來源改為 API
 
 * 因無解析動作，無法正常執行
+
+step-6-2
+對 CommentBox 加入 getInitialState 初始化，可正常執行但無資料
+
+
