@@ -30,3 +30,8 @@ step-3
   - CommentList, 提供 資料 給 Comment 做顯示
     - Comment
   - CommentForm
+
+step-4
+加入 Markdown (Markdown - wiki)
+轉換輸出
+
