@@ -50,4 +50,5 @@ step-6-1
 step-6-2
 對 CommentBox 加入 getInitialState 初始化，可正常執行但無資料
 
-
+step-7
+正常呼叫並解析 API ，資料來源改為 API
