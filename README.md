@@ -16,4 +16,10 @@ step-1-1
 因為使用 babel 所以使用 JSX 語法
 可以不用自己寫標籤，完全用動態產生的方式處理
 
-
+step-2
+將 content 中規劃成
+- CommentBox
+  - CommentList
+  - CommentForm
+的格式
+以加入標籤的方式
